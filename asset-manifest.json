@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/st-react/static/css/main.697f0781.css",
+    "main.js": "/st-react/static/js/main.0ab38624.js",
+    "static/js/592.af602483.chunk.js": "/st-react/static/js/592.af602483.chunk.js",
+    "static/media/pngwing.com (1).png": "/st-react/static/media/pngwing.com (1).a72e5796e6df19647c21.png",
+    "static/media/poert1.png": "/st-react/static/media/poert1.4417330275f78faa31c3.png",
+    "static/media/port3.png": "/st-react/static/media/port3.494a4a914b5471b41f3e.png",
+    "static/media/port2.png": "/st-react/static/media/port2.6554473016d32b343f02.png",
+    "index.html": "/st-react/index.html",
+    "main.697f0781.css.map": "/st-react/static/css/main.697f0781.css.map",
+    "main.0ab38624.js.map": "/st-react/static/js/main.0ab38624.js.map",
+    "592.af602483.chunk.js.map": "/st-react/static/js/592.af602483.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.697f0781.css",
+    "static/js/main.0ab38624.js"
+  ]
+}
